@@ -1,0 +1,32 @@
+.react-pdf__Page__textContent,
+.react-pdf__Page__annotations {
+  display: none;
+}
+
+.modal__bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10vh 0 0 0;
+}
+
+.modal__document {
+  position: relative;
+  width: fit-content;
+  height: 70vh;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.modal__buttons {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
+
+.modal__button-print {
+  margin: 0 30px 0 0;
+}

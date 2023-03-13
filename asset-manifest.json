@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/read-pdf/static/css/main.c025c147.css",
+    "main.js": "/read-pdf/static/js/main.c6a8ca88.js",
+    "index.html": "/read-pdf/index.html",
+    "main.c025c147.css.map": "/read-pdf/static/css/main.c025c147.css.map",
+    "main.c6a8ca88.js.map": "/read-pdf/static/js/main.c6a8ca88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c025c147.css",
+    "static/js/main.c6a8ca88.js"
+  ]
+}
